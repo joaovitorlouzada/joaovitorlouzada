@@ -19,7 +19,7 @@ Desenvolvimento Web e Java Spring Boot
 
 ### 📫 Onde me encontrar
 📌 GitHub: [@joaovitorlouzada](https://github.com/joaovitorlouzada)  
-📌 LinkedIn: [Meu Perfil]([https://www.linkedin.com/in/joaovitorlouzada](https://www.linkedin.com/in/jo%C3%A3ov%C3%ADtorlouzada/))  
+📌 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/joãovítorlouzada/)  
 
 ---
 
