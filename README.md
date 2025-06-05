@@ -1,29 +1,38 @@
-## 🚀 Olá, eu sou João Vitor Louzada! 👋
+## 🚀 Olá! Eu sou João Vitor Louzada! 👋
 
-Sou um estudante de **💻 Ciência da Computação** apaixonado por tecnologia e desenvolvimento de software. Sempre aprendendo e buscando aprimorar minhas habilidades.
-
----
-
-### 🔧 Tecnologias & Ferramentas
-
-🖥 **Linguagens:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-🛠 **Ferramentas:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
-
-
-📚 **Atualmente aprendendo:**  
-Desenvolvimento Web e Java Spring Boot
+🎓 Estudante de **Ciência da Computação**, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.  
+Sempre em busca de novos desafios e formas de evoluir como desenvolvedor.
 
 ---
 
-### 📫 Onde me encontrar
-📌 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/joãovítorlouzada/)  
+<div align="center">
 
+### 📊 GitHub Stats
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaovitorlouzada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorlouzada&layout=compact&langs_count=16&theme=dracula"/>
 
 ---
 
+### 💻 Tecnologias que utilizo
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+</p>
+
+---
+
+| 📚 Atualmente aprendendo | 📫 Onde me encontrar |
+|--------------------------|----------------------|
+| Desenvolvimento Web e Java Spring Boot | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãovítorlouzada/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaolouzadareis@gmail.com) |
+
+---
 
 Obrigado por visitar meu perfil! 😃
+
+</div>
